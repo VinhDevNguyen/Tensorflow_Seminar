@@ -12,9 +12,9 @@ This second course teaches you advanced techniques to improve the computer visio
   * [ ] Fixing through cropping
   * [ ] Looking at accuracy and loss
 * [x] Exercise
-  * [x] [Week 1 - Classifying Cats and Dogs](./Week_1/Exercise_5_Question.ipynb)
+  * [x] [Week 1 - Classifying Cats and Dogs](./Week_1/Week1_Question.ipynb)
 * [x] Solution
-  * [x] [Week 1 - Classifying Cats and Dogs - Solution](./Week_1/Exercise_5_Question.ipynb)
+  * [x] [Week 1 - Classifying Cats and Dogs - Solution](./Week_1/Week1_Question_Solution.ipynb)
 
 #### Week 2: Augmentation, a Technique to Avoid Overfitting
 
