@@ -1,10 +1,10 @@
 ![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
 
-## Introduction to TensorFlow for AI, ML and DL
+## [Introduction to TensorFlow for AI, ML and DL](./1_Introduction_To_TF/)
 
 This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
 
-#### Week 1: A New Programming Paradigm
+#### [Week 1: A New Programming Paradigm](./1_Introduction_To_TF/Week_1/)
 
 * [x] [Slide](./1_Introduction_To_TF/Week_1/Slide/A%20new%20programming%20paradigm.pptx)
   * [x] Introduce Machine Learning
@@ -48,12 +48,12 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 * [ ] Outro: Conversation with Andrew
 * [ ] Week 4 - Classifying emotion with CNN.ipynb
 
-## Convolutional Neural Networks in TensorFlow
+## [Convolutional Neural Networks in TensorFlow](./2_CNN_In_TF/)
 
 This second course teaches you advanced techniques to improve the computer vision model you built in Course 1. You will explore how to work with real-world images in different shapes and sizes, visualize the journey of an image through convolutions to understand how a computer “sees” information, plot loss and accuracy, and explore strategies to prevent overfitting, including augmentation and dropouts. Finally, Course 2 will introduce you to transfer learning and how learned features can be extracted from models.
 
 
-### [Week 1: Exploring a Larger Dataset](./Week_1/)
+### [Week 1: Exploring a Larger Dataset](./2_CNN_In_TF/Week_1/)
 * [x] [Slide](./Week_1/Slide/Exploring_a_Larger_Dataset.pptx)
   * [x] Introduce Large dataset
   * [x] Training with the cats vs. dogs dataset
