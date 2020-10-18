@@ -29,7 +29,7 @@
 ## Table of Contents
 
 - [Progress](#progress)
-  - [Contributing](#contributing)
+- [Contributing](#contributing)
 
 
 # Progress
