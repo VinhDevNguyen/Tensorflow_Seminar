@@ -1,95 +1,76 @@
-![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
 
-## [Introduction to TensorFlow for AI, ML and DL](./1_Introduction_To_TF/)
-
-This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
-
-#### [Week 1: A New Programming Paradigm](./1_Introduction_To_TF/Week_1/)
-
-* [x] [Slide](./1_Introduction_To_TF/Week_1/Slide/A%20new%20programming%20paradigm.pptx)
-  * [x] Introduce Machine Learning
-  * [x] Introduce Tensorflow
-  * [x] Solve problem in TensorFlow and Python
-    * [x] [Notebook](./1_Introduction_To_TF/Week_1/Notebook/Guess_The_Number.ipynb)
-* [x] Exercise
-  * [x] [Week 1 - Predicting house price.ipynb](./1_Introduction_To_TF/Week_1/Exercise/Exercise_1_House_Prices_Question.ipynb)
-
-#### Week 2: Introduction to Computer Vision
-
-* [ ] A conversation with Andrew Ng
-* [ ] An introduction to computer vision
-* [ ] Writing code to load training data
-* [ ] Coding a computer vision neural network
-* [ ] Walk through a notebook for computer vision
-* [ ] Using callbacks to control training
-* [ ] Walk through a notebook with callbacks
-* [ ] Week 2 - Classifying Fashion MNIST with MLP.ipynb
-
-#### Week 3: Enhancing Vision with Convolutional Neural Networks
-
-* [ ] A conversation with Andrew Ng
-* [ ] What are convolutions and pooling?
-* [ ] Implementing convolutional layers
-* [ ] Implementing pooling layers
-* [ ] Improving the fashion classifier with convolutions
-* [ ] Walking through convolutions
-* [ ] Week 3 - Classifying Fashion MNIST with CNN.ipynb
-
-#### Week 4: Using Real-World Images
-
-* [ ] A conversation with Andrew Ng
-* [ ] Understanding ImageGenerator
-* [ ] Defining a ConvNet to use complex images
-* [ ] Training the ConvNet with fit_generator
-* [ ] Walking through developing a ConvNet
-* [ ] Walking through training the ConvNet with fit_generator
-* [ ] Adding automatic validation to test accuracy
-* [ ] Exploring the impact of compressing images
-* [ ] Outro: Conversation with Andrew
-* [ ] Week 4 - Classifying emotion with CNN.ipynb
-
-## [Convolutional Neural Networks in TensorFlow](./2_CNN_In_TF/)
-
-This second course teaches you advanced techniques to improve the computer vision model you built in Course 1. You will explore how to work with real-world images in different shapes and sizes, visualize the journey of an image through convolutions to understand how a computer “sees” information, plot loss and accuracy, and explore strategies to prevent overfitting, including augmentation and dropouts. Finally, Course 2 will introduce you to transfer learning and how learned features can be extracted from models.
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+[![GithubFork][GithubFork-shield]][GithubFork-url]
+[![Facebook][Facebook-shield]][Facebook-url]
 
 
-### [Week 1: Exploring a Larger Dataset](./2_CNN_In_TF/Week_1/)
-* [x] [Slide](./Week_1/Slide/Exploring_a_Larger_Dataset.pptx)
-  * [x] Introduce Large dataset
-  * [x] Training with the cats vs. dogs dataset
-  * [x] Working through the notebook
-    * [x] [Notebook](./Week_1/Notebook/Part3_Notebook.ipynb)
-  * [x] Looking at accuracy and loss
-* [x] Exercise
-  * [x] [Week 1 - Classifying Cats and Dogs](./Week_1/Exercise/Week1_Question.ipynb)
-* [x] Solution
-  * [x] [Week 1 - Classifying Cats and Dogs - Solution](./Week_1/Exercise/Solution/Week1_Question_Solution.ipynb)
 
-### Week 2: Augmentation, a Technique to Avoid Overfitting
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/VinhDevNguyen/CNN_in_Tensorflow">
+    <img src="https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png">
+  </a>
 
-- A conversation with Andrew Ng
-- Introducing augmentation
-- Coding augmentation with ImageDataGenerator
-- Demonstrating overfitting in cats vs. dogs dataset
-- Adding augmentation to cats vs. dogs dataset
-- Exploring augmentation with horses vs. humans dataset
-- Week 2 - Improving Cats and Dogs Classifier.ipynb
+  <h3 align="center">Tensorflow</h3>
 
-### Week 3: Transfer Learning
+  <p align="center">
+    All about Tensorflow based on Corsera
+    <br />
+    <br />
+    <a href="https://github.com/VinhDevNguyen/CNN_in_Tensorflow/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/VinhDevNguyen/CNN_in_Tensorflow/issues">Request Feature</a>
+  </p>
+</p>
 
-- A conversation with Andrew Ng
-- Understanding transfer learning: the concepts
-- Coding your own model with transferred features
-- Exploring dropouts
-- Exploring transfer learning with inception
-- Week 3 - Transfer learning (VGG Net).ipynb
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-### Week 4: Multi-class Classifications
+- [Progress](#progress)
+  - [Contributing](#contributing)
 
-- A conversation with Andrew Ng
-- Moving from binary to multi-class classification
-- Exploring multi-class classification with the rock paper scissors dataset
-- Training a classifier with the rock paper scissors dataset
-- Testing the rock paper scissors classifier
-- Week 4 - Classifying images of sign languages.ipynb
 
+# Progress
+* [ ] [Introduction to TensorFlow for AI, ML and DL](./1_Introduction_To_TF/)
+  * [x] [Week 1: A New Programming Paradigm](./1_Introduction_To_TF/Week_1/)
+  * [ ] Week 2: Introduction to Computer Vision
+  * [ ] Week 3: Enhancing Vision with Convolutional Neural Networks
+  * [ ] Week 4: Using Real-World Images
+* [ ] [Convolutional Neural Networks in TensorFlow](./2_CNN_In_TF/)
+  * [x] [Week 1: Exploring a Larger Dataset](./2_CNN_In_TF/Week_1/)
+  * [ ] Week 2: Augmentation, a Technique to Avoid Overfitting
+  * [ ] Week 3: Transfer Learning
+  * [ ] Week 4: Multi-class Classifications
+* [ ] NLP with Tensorflow
+  * [ ] What is NLP?
+  * [ ] Sentiment in text
+  * [ ] Word Embeddings
+  * [ ] Sequence Models
+  * [ ] Sequence Model and Literature
+* [ ] Sequences, Time series and Prediction
+  * [ ] Sequences and Prediction
+  * [ ] Deep Neural Network for Time series
+  * [ ] Recurrent Neural Network
+  * [ ] Real-world time series data
+
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project [![GithubFork][GithubFork-shield]][GithubFork-url]
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+[contributors-shield]: https://img.shields.io/github/contributors/VinhDevNguyen/CNN_in_Tensorflow.svg?style=flat-square
+[contributors-url]: https://github.com/VinhDevNguyen/CNN_in_Tensorflow/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/VinhDevNguyen/CNN_in_Tensorflow.svg?style=flat-square
+[issues-url]: https://github.com/VinhDevNguyen/CNN_in_Tensorflow/issues
+[Facebook-shield]: https://img.shields.io/badge/facebook-%231877F2.svg?&logo=facebook&logoColor=white&style=flat-square
+[Facebook-url]: https://www.facebook.com/uit.cs.aiclub/
+[GithubFork-shield]: https://img.shields.io/github/forks/VinhDevNguyen/CNN_in_Tensorflow?label=Fork&style=flat-square
+[GithubFork-url]: https://github.com/VinhDevNguyen/CNN_in_Tensorflow/fork
