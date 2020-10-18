@@ -28,11 +28,12 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Progress](#progress)
 - [Contributing](#contributing)
 
 
-# Progress
+## Progress
 * [ ] [Introduction to TensorFlow for AI, ML and DL](./1_Introduction_To_TF/)
   * [x] [Week 1: A New Programming Paradigm](./1_Introduction_To_TF/Week_1/)
   * [ ] Week 2: Introduction to Computer Vision
