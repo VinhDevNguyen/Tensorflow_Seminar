@@ -36,7 +36,7 @@
 ## Progress
 * [ ] [Introduction to TensorFlow for AI, ML and DL](./1_Introduction_To_TF/)
   * [x] [Week 1: A New Programming Paradigm](./1_Introduction_To_TF/Week_1/)
-  * [ ] Week 2: Introduction to Computer Vision
+  * [x] [Week 2: Introduction to Computer Vision](./1_Introduction_To_TF/Week_2/)
   * [ ] Week 3: Enhancing Vision with Convolutional Neural Networks
   * [ ] Week 4: Using Real-World Images
 * [ ] [Convolutional Neural Networks in TensorFlow](./2_CNN_In_TF/)
