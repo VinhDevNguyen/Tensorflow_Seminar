@@ -25,8 +25,8 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
   * [x] Using callbacks to control training
 * [ ] Notebook
   * [ ] Control training with Callbacks funtion
-* [ ] Exercise
-  * [ ] Week 2 - Handwriting Recognition
+* [x] Exercise
+  * [x] [Week 2 - Handwriting Recognition](./Week_2/Exercise/Handwriting_Recognition.ipynb)
 
 ### Week 3: Enhancing Vision with Convolutional Neural Networks
 
