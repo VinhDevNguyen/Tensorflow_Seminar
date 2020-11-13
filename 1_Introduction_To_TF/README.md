@@ -26,7 +26,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 * [ ] Notebook
   * [ ] Control training with Callbacks funtion
 * [ ] Exercise
-  * [ ] Week 2 - Classifying Fashion MNIST with MLP.ipynb
+  * [ ] Week 2 - Handwriting Recognition
 
 ### Week 3: Enhancing Vision with Convolutional Neural Networks
 
