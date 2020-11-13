@@ -7,24 +7,26 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 
 ### [Week 1: A New Programming Paradigm](./1_Introduction_To_TF/Week_1/)
 
-* [x] [Slide](./1_Introduction_To_TF/Week_1/Slide/A%20new%20programming%20paradigm.pptx)
+* [x] [Slide](./Week_1/Slide/A%20new%20programming%20paradigm.pptx)
   * [x] Introduce Machine Learning
   * [x] Introduce Tensorflow
   * [x] Solve problem in TensorFlow and Python
-    * [x] [Notebook](./1_Introduction_To_TF/Week_1/Notebook/Guess_The_Number.ipynb)
+* [x] Notebook
+  * [x] [Guess_The_Number.ipynb](./Week_1/Notebook/Guess_The_Number.ipynb)
 * [x] Exercise
-  * [x] [Week 1 - Predicting house price.ipynb](./1_Introduction_To_TF/Week_1/Exercise/Exercise_1_House_Prices_Question.ipynb)
+  * [x] [Week 1 - Predicting house price.ipynb](./Week_1/Exercise/Exercise_1_House_Prices_Question.ipynb)
 
 ### Week 2: Introduction to Computer Vision
 
-* [ ] A conversation with Andrew Ng
-* [ ] An introduction to computer vision
-* [ ] Writing code to load training data
-* [ ] Coding a computer vision neural network
-* [ ] Walk through a notebook for computer vision
-* [ ] Using callbacks to control training
-* [ ] Walk through a notebook with callbacks
-* [ ] Week 2 - Classifying Fashion MNIST with MLP.ipynb
+* [x] [Slide](./Week_2/Slide/An_Introduction_to_computer_vision.pptx)
+  * [x] An introduction to computer vision
+  * [x] Writing code to load training data
+  * [x] Coding a computer vision neural network
+  * [x] Using callbacks to control training
+* [ ] Notebook
+  * [ ] Control training with Callbacks funtion
+* [ ] Exercise
+  * [ ] Week 2 - Classifying Fashion MNIST with MLP.ipynb
 
 ### Week 3: Enhancing Vision with Convolutional Neural Networks
 
