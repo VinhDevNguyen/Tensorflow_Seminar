@@ -23,8 +23,9 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
   * [x] Writing code to load training data
   * [x] Coding a computer vision neural network
   * [x] Using callbacks to control training
-* [ ] Notebook
-  * [ ] Control training with Callbacks funtion
+* [x] Notebook
+  * [x] [Control training with Callbacks funtion](./Week_2/Notebook/Callback_Function.ipynb)
+  * [x] [Computer Vision example](./Week_2/Notebook/Computer_Vision_Example.ipynb)
 * [x] Exercise
   * [x] [Week 2 - Handwriting Recognition](./Week_2/Exercise/Handwriting_Recognition.ipynb)
 
