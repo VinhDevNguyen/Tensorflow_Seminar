@@ -1,2 +1,4 @@
 # Ignore office running files
 ~$*
+Tensorflow_Env/
+.vscode/
