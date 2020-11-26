@@ -2,15 +2,12 @@
 
 ### [Week 1: Sentiment In Text](./Week_1/)
 * [ ] Slide
-  * [ ] Introduction
   * [ ] Word based encodings
-  * [ ] Using APIs
+  * [x] Tokenizer
   * [ ] Text to sequence
   * [ ] Looking more at the Tokenizer
   * [ ] Padding
-  * [ ] Sarcasm, really?
-  * [ ] Working with the Tokenizer
-  * [ ] Week 1 Wrap up
+  * [ ] Working with the Tokenizer on news healines dataset
  
 ### Week 2: Augmentation, a Technique to Avoid Overfitting
 * [ ] Slide
