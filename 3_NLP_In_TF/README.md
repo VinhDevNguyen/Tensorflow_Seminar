@@ -1,14 +1,20 @@
 ![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
 
 ### [Week 1: Sentiment In Text](./Week_1/)
-* [ ] Slide
+* [ ] [Slide](./Week_1/Slide/Sentiment_In_Text.pptx)
   * [ ] Word based encodings
   * [x] Tokenizer
   * [ ] Text to sequence
   * [ ] Looking more at the Tokenizer
   * [ ] Padding
   * [ ] Working with the Tokenizer on news healines dataset
- 
+* [ ] [Exercise](./Week_1/Exercise/Working_On_BBC_news.ipynb)
+* [ ] [Solution](./Week_1/Exercise/Solution/Working_On_BBC_news_Solution.ipynb)
+* [ ] [Notebook](./Week_1/Notebook/)
+  * [ ] [Padding](Week_1/Notebook/Padding.ipynb)
+  * [ ] [Text to sequence](Week_1/Notebook/Text_To_Sequence.ipynb)
+  * [ ] [Word based encoding](Week_1/Notebook/Word_based_encodings.ipynb)
+  * [ ] [Working on sarcasm data](Week_1/Notebook/Working_On_Sarcasm_Data.ipynb)
 ### Week 2: Augmentation, a Technique to Avoid Overfitting
 * [ ] Slide
   * [ ] Introduction
