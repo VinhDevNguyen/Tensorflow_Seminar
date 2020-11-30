@@ -45,7 +45,7 @@
   * [ ] Week 3: Transfer Learning
   * [ ] Week 4: Multi-class Classifications
 * [ ] [NLP with Tensorflow](./3_NLP_In_TF/)
-  * [ ] [Week 1: Sentiment in text](./3_NLP_In_TF/Week_1/)
+  * [x] [Week 1: Sentiment in text](./3_NLP_In_TF/Week_1/)
   * [ ] Word Embeddings
   * [ ] Sequence Models
   * [ ] Sequence Model and Literature
