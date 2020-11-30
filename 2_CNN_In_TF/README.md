@@ -6,7 +6,7 @@
 This second course teaches you advanced techniques to improve the computer vision model you built in Course 1. You will explore how to work with real-world images in different shapes and sizes, visualize the journey of an image through convolutions to understand how a computer “sees” information, plot loss and accuracy, and explore strategies to prevent overfitting, including augmentation and dropouts. Finally, Course 2 will introduce you to transfer learning and how learned features can be extracted from models.
 
 
-### [Week 1: Exploring a Larger Dataset](./2_CNN_In_TF/Week_1/)
+### [Week 1: Exploring a Larger Dataset](./Week_1/)
 * [x] [Slide](./Week_1/Slide/Exploring_a_Larger_Dataset.pptx)
   * [x] Introduce Large dataset
   * [x] Training with the cats vs. dogs dataset
