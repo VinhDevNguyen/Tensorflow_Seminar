@@ -31,8 +31,8 @@ for i in range(len(test_data)):
     print(test_data[i], ' -> ', test_seq[i])
 # %%
 # Padding
-padded = pad_sequences(seq)
-print('\nPadded Test Sequence:')
+padded = pad_sequences(seq, truncating= 'post', maxlen=5)
+print('\nPadded Sequence:')
 print(padded)
 Test_padded = pad_sequences(test_seq)
 print('\nPadded Test Sequence:')
