@@ -5,7 +5,7 @@
 
 This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
 
-### [Week 1: A New Programming Paradigm](./1_Introduction_To_TF/Week_1/)
+### [Week 1: A New Programming Paradigm](./Week_1/)
 
 * [x] [Slide](./Week_1/Slide/A%20new%20programming%20paradigm.pptx)
   * [x] Introduce Machine Learning
@@ -16,7 +16,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 * [x] Exercise
   * [x] [Week 1 - Predicting house price.ipynb](./Week_1/Exercise/Exercise_1_House_Prices_Question.ipynb)
 
-### Week 2: Introduction to Computer Vision
+### [Week 2: Introduction to Computer Vision](./Week_2/)
 
 * [x] [Slide](./Week_2/Slide/An_Introduction_to_computer_vision.pptx)
   * [x] An introduction to computer vision
