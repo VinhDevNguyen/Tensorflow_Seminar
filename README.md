@@ -16,7 +16,7 @@
   <h3 align="center">Tensorflow</h3>
 
   <p align="center">
-    All about Tensorflow based on Corsera
+    All about Tensorflow based on Coursera
     <br />
     <br />
     <a href="https://github.com/VinhDevNguyen/CNN_in_Tensorflow/issues">Report Bug</a>
