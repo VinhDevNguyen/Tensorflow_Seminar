@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/VinhDevNguyen/CNN_in_Tensorflow">
-    <img src="https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png">
+    <img src="https://cdn.discordapp.com/attachments/834835139732439070/885098972069384192/pBq4AAAAASUVORK5CYII.png">
   </a>
 
   <h3 align="center">Tensorflow</h3>
